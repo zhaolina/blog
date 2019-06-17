@@ -7,7 +7,6 @@ categories: HTML
 description: <!DOCTYPE> 的作用：决定浏览器以何种方式解析html
 ---
 ## 主题介绍
-
 <!DOCTYPE>书写不正确对项目页面的影响。
 
 <!-- more -->

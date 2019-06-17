@@ -8,7 +8,6 @@ categories: Git
 description: 在同一Mac客户端下管理多个git账号，以隔离工作和个人的开发空间。
 ---
 ## 主题介绍
-
 在同一Mac客户端下管理多个git账号，以隔离工作和个人的开发空间。
 
 <!-- more -->
